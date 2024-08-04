@@ -2,7 +2,7 @@ include <"stdio.h">
 
 int main(){
 
-   printf("HellO World!")
+   printf("Hello World!")
 
    return 0;
 }
